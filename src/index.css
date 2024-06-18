@@ -9,14 +9,14 @@
     text-decoration: none;
 }
 
-body{
+body {
     font-family: 'Poppins', sans-serif;
-    background-image: url('../public/images/5073414.jpg');
+    background-image: url('../public/images/pexels-ella-olsson-572949-1640773.jpg');
     /* href="https://www.freepik.com/free-vector/dark-hexagonal-background-with-gradient-color_12804207.htm#query=computer%20background&position=0&from_view=keyword&track=ais_user&uuid=fd2dca36-4c6f-4660-92d0-2189bff01897">Image by coolvector> on Freepik> */
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    color: #fdfdfd;
+    color: black;
 }
 
 header {
@@ -43,9 +43,7 @@ header {
     letter-spacing: 3px;
     font-size: 3rem; /* Adjust font size as needed */
     font-weight: bold; /* Make the text bold */
-    background: url('../public/images/IMG_3231.jpg');
     -webkit-background-clip: text;
-    color: transparent;
     background-clip: text;
 }
 .portfolio {
@@ -59,8 +57,9 @@ span{
     display: flex;
 }
 .nave-list a{
-    color: #f5f5f5;
-    font-weight: 500;
+    color: black;
+    font-weight: 700;
+    font-size: 1.2rem;
     padding: 10px 20px;
 }
 .nave-list a:hover{
